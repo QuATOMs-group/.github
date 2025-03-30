@@ -1,5 +1,0 @@
-## Welcome to the QuATOMs group git 👋
-
-The Quantum & Artificial inTelligence design Of Materials ([QuATOMs](https://dannyvanpoucke.be/quatoms-group/)) group was created in October 2022, as part of the materials chemistry group in the faculty of science at [UHasselt](https://www.uhasselt.be/en/). The group is embedded in the [Instute for Materials Research (IMO-IMOMEC)](https://www.uhasselt.be/en/instituten-en/imo-imomec), and provides quantum chemical support and predictions in materials research. It is the interdisciplinary computational materials research 💻 group at IMO-IMOMEC with interest in both materials physics⚛️ and materials chemistry🧪. The group is lead by Prof. dr. dr. Danny Vanpoucke ([git](https://github.com/DannyVanpoucke), [web](https://dannyvanpoucke.be/)), and currently counts 3 PhD's and 1 Post doc.
-
-As our work focusses on AI and DFT, and provides classes in computational and quantum chemistry, repositories related to these topics will be migrated to this group (once considered stable enough).
